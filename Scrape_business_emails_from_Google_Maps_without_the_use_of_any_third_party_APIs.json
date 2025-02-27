@@ -318,7 +318,7 @@
     },
     {
       "parameters": {
-        "content": "### Scraper 👇\nThis workflow will be executed in the background for each query. Click the **All executions** tab in the left sidebar to see the executions running.",
+        "content": "### Scraper 👇\n Starts the scrapers.",
         "height": 100,
         "width": 480
       },
